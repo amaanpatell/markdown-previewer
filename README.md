@@ -18,12 +18,14 @@ A simple **Markdown Previewer** built using **HTML, CSS, and JavaScript** with [
 
 ---
 
-## 🎨 Live Dmeo 
-
-![Markdown Previewer]()  
+## 🌐 Live Demo
+[View Live Demo](https://markdown-previewer-inky-three.vercel.app/)
 
 ---
- 
+
+ ## 🤝 Contributing
+Contributions are welcome! Feel free to submit pull requests or open issues.
+
 
 ### 1️⃣ Clone the Repository  
 ```sh
